@@ -2,6 +2,7 @@ on:
   push:
     branches: [ "master" ]
 
+
 env:
   IMAGE_NAME: reactjs-fullstack-g1
 jobs:
