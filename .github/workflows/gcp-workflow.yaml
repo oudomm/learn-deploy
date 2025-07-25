@@ -62,5 +62,3 @@ jobs:
   #             --name my-app \
   #             -p 3000:80 \
   #             "69966/${{env.IMAGE_NAME }}:${{ env.TAG }}"
-            
-  
